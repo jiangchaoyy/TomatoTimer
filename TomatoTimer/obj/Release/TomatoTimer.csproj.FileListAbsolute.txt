@@ -10,3 +10,4 @@ E:\Git\C#\TomatoTimer\TomatoTimer\obj\Release\TomatoTimer.Properties.Resources.r
 E:\Git\C#\TomatoTimer\TomatoTimer\obj\Release\TomatoTimer.csproj.GenerateResource.Cache
 E:\Git\C#\TomatoTimer\TomatoTimer\obj\Release\TomatoTimer.exe
 E:\Git\C#\TomatoTimer\TomatoTimer\obj\Release\TomatoTimer.pdb
+E:\Git\C#\TomatoTimer\TomatoTimer\obj\Release\TomatoTimer.csprojResolveAssemblyReference.cache

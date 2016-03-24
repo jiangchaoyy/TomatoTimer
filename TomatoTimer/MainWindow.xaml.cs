@@ -92,7 +92,7 @@ namespace TomatoTimer
                     textComplete = "辛苦了！休息一下！";
                 }
 
-                MessageBox.Show(textComplete);
+                MessageBox.Show(textComplete, "温馨提示");
             }
         }
 
