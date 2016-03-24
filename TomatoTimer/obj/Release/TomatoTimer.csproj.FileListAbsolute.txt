@@ -1,0 +1,12 @@
+E:\Git\C#\TomatoTimer\TomatoTimer\bin\Release\TomatoTimer.exe.config
+E:\Git\C#\TomatoTimer\TomatoTimer\bin\Release\TomatoTimer.exe
+E:\Git\C#\TomatoTimer\TomatoTimer\bin\Release\TomatoTimer.pdb
+E:\Git\C#\TomatoTimer\TomatoTimer\obj\Release\MainWindow.baml
+E:\Git\C#\TomatoTimer\TomatoTimer\obj\Release\MainWindow.g.cs
+E:\Git\C#\TomatoTimer\TomatoTimer\obj\Release\App.g.cs
+E:\Git\C#\TomatoTimer\TomatoTimer\obj\Release\TomatoTimer_MarkupCompile.cache
+E:\Git\C#\TomatoTimer\TomatoTimer\obj\Release\TomatoTimer.g.resources
+E:\Git\C#\TomatoTimer\TomatoTimer\obj\Release\TomatoTimer.Properties.Resources.resources
+E:\Git\C#\TomatoTimer\TomatoTimer\obj\Release\TomatoTimer.csproj.GenerateResource.Cache
+E:\Git\C#\TomatoTimer\TomatoTimer\obj\Release\TomatoTimer.exe
+E:\Git\C#\TomatoTimer\TomatoTimer\obj\Release\TomatoTimer.pdb
